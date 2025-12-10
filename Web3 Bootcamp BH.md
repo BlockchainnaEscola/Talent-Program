@@ -1,35 +1,31 @@
-# BnE Lab Talent Program
+# 🌟 BnE Lab Talent Program
 
-**Identificando, registrando e acompanhando talentos Web3 de escolas públicas brasileiras**
+**Identifying, registering, and tracking Web3 talent from Brazilian public schools**
 
+## 📍 Web3 Careers Bootcamp - Belo Horizonte 2025
 
-## Bootcamp Web3 Careers - Belo Horizonte 2025
+This repository documents students who participated in the **Web3 Careers Bootcamp**, held between **October 21-28, 2025**, at two public state schools in Belo Horizonte: **Escola Estadual Geraldo Jardim Linhares** and **Escola Estadual Cristiano Machado**.
 
-Este repositório documenta os estudantes que participaram do **Bootcamp Web3 Careers**, realizado entre **21 e 28 de outubro de 2025**, em duas escolas públicas estaduais de Belo Horizonte: **Escola Estadual Geraldo Jardim Linhares** e **Escola Estadual Cristiano Machado**.
+The program was sponsored by **Celo Foundation** and **Team1 Avalanche**, in partnership with Web3 communities: **Off-Chain Brazil**, **Modular Crypto**, **Crypto Rastas**, **Let's Co Create**, and **Zcash Brazil**. The event took place at **Orbi Conecta Hub**, providing public school students access to professional technology and innovation environments that would normally be inaccessible to them.
 
-O programa foi patrocinado por **Celo Foundation** e **Team1 Avalanche**, com parceria das comunidades Web3: **Off-Chain Brazil**, **Modular Crypto**, **Crypto Rastas**, **Let's Co Create**, e **Zcash Brazil**. O evento aconteceu no **Orbi Conecta Hub**, proporcionando aos estudantes de escolas públicas acesso a ambientes profissionais de tecnologia e inovação que normalmente seriam inacessíveis.
+This bootcamp is important because it **democratizes access to knowledge about emerging technologies**, creating a bridge between low-income students and career opportunities in the Web3 ecosystem, combating digital exclusion and opening pathways to future professions.
 
-Este bootcamp é importante porque **democratiza o acesso ao conhecimento sobre tecnologias emergentes**, criando uma ponte entre estudantes de baixa renda e oportunidades de carreira no ecossistema Web3, combatendo a exclusão digital e abrindo caminhos para profissões do futuro.
+## 📊 Reports & Data
 
+### Official Documentation
+- **[📄 Celo Report - On-Chain Impact](https://drive.google.com/file/d/10JHcqZ9d1LukC0uCiSSEoshjLzkzFUk7/view?usp=drive_link)** - Complete analysis of 174 on-chain transactions by students
+- **[📈 Data Visualization Dashboard - Celo](https://lookerstudio.google.com/reporting/45e228ad-a5b9-486d-9415-df876847d7d9)** - Interactive student engagement metrics
+- **[🏔️ Avalanche Report - Web3 Careers Workshop](https://drive.google.com/file/d/1FQdxnOnl8V9GAY6h9gKH8tOpsnH95WQT/view?usp=drive_link)** - Team1 partnership and career tracks presented
 
-## Relatórios e Dados
+## 👥 Student List
 
-### Documentação Oficial
-- **[Relatório Celo - Impacto On-Chain](https://drive.google.com/file/d/10JHcqZ9d1LukC0uCiSSEoshjLzkzFUk7/view?usp=drive_link)** - Análise completa das 174 transações on-chain dos estudantes
-- **[Dashboard de Visualização de Dados - Celo](https://lookerstudio.google.com/reporting/45e228ad-a5b9-486d-9415-df876847d7d9)** - Métricas interativas de engajamento estudantil
-- **[Relatório Avalanche - Workshop Carreiras Web3](https://drive.google.com/file/d/1FQdxnOnl8V9GAY6h9gKH8tOpsnH95WQT/view?usp=drive_link)** - Parceria Team1 e trilhas de carreira apresentadas
+**Total: 28 students with minted NFTs**
 
+All students received a **Badge NFT** (ERC-721) on **Celo Mainnet** as verifiable proof of participation.
 
+**Badge Contract:** [`0x3ec359ae321b2f956045d803a3003683d4fa99db`](https://celoscan.io/token/0x3ec359ae321b2f956045d803a3003683d4fa99db)
 
-## 👥 Lista de Estudantes
-
-**Total: 28 estudantes com NFTs mintados**
-
-Todos os estudantes receberam um **Badge NFT** (ERC-721) na **Celo Mainnet** como credencial verificável de participação.
-
-**Contrato do Badge:** [`0x3ec359ae321b2f956045d803a3003683d4fa99db`](https://celoscan.io/token/0x3ec359ae321b2f956045d803a3003683d4fa99db)
-
-| # | Nome | Carteira | Badge ID | Token ID |
+| # | Name | Wallet | Badge ID | Token ID |
 |---|------|----------|----------|----------|
 | 1 | PEDRO AUGUSTO | `0x9101eFc880fdB9d1848127f842AA0D279abfD479` | BNE-1761007014682 | #4 |
 | 2 | Maria Eduarda Santos de Matos | `0x5dC4e4F7Ae4666FF6723828e48a536f56369CB0d` | BNE-1761151541471 | #7 |
@@ -60,9 +56,7 @@ Todos os estudantes receberam um **Badge NFT** (ERC-721) na **Celo Mainnet** com
 | 27 | Gabriel Faria Silva | `0x9f3F3f99e5Ac1e98D85dd83ecA167a493B142798` | BNE-1761239259836 | #34 |
 | 28 | Ana Luiza Pereira de Souza | `0x552648004006B9daa8F7b1EB3B7C28B1c7C2cc38` | BNE-1761239367730 | #35 |
 
-**Verificar on-chain:** Todas as carteiras e badges podem ser verificados em [CeloScan](https://celoscan.io/token/0x3ec359ae321b2f956045d803a3003683d4fa99db)
-
-
+**🔍 Verify on-chain:** All wallets and badges can be verified at [CeloScan](https://celoscan.io/token/0x3ec359ae321b2f956045d803a3003683d4fa99db)
 
 ## 📝 Para Estudantes: Como Adicionar Seu Perfil
 
@@ -109,6 +103,8 @@ Envie suas informações preenchidas para: verber@refaz.xyz ou delasperifa@gmail
 ## 🎯 Áreas de Interesse
 - [ ] Desenvolvimento (Smart Contracts, dApps)
 - [ ] Arte Digital & NFTs
+- [ ] DAOs & Governança
+- [ ] Análise de Dados On-chain
 - [ ] Comunidades & Marketing Web3
 - [ ] Outro: _______
 
@@ -128,5 +124,30 @@ Liste aqui projetos que você desenvolveu durante ou após o bootcamp:
 Escreva um parágrafo sobre você, sua experiência no bootcamp e seus objetivos na Web3.
 ```
 
----
+## 🤝 For Web3 Companies & Recruiters
 
+This repository provides access to **on-chain verified talent** from Brazilian public schools.
+
+**Why recruit here?**
+- ✅ Blockchain-verifiable credentials (not just resumes)
+- ✅ Hands-on experience with wallets, NFTs, tokens, and smart contracts
+- ✅ Genuine diversity (low-income students, underrepresented in tech)
+- ✅ Alignment with decentralization and social impact values
+
+**Interested in sponsoring future bootcamps or hiring talent?**
+📧 Contact: verber@refaz.xyz | delasperifa@gmail.com
+
+## 📞 Contact
+
+**Blockchain na Escola (BnE)**
+
+- **Verber Alves de Souza** - General Coordinator - verber@refaz.xyz
+- **Luciana de Souza** - General Coordinator - delasperifa@gmail.com
+- **Marcelo de Almeida** - Advisor - marcelo@refaz.xyz
+
+**Links:**
+- 🌐 [Official Website](https://blockchain-na-escola.gitbook.io/laboratorio-blockchain/)
+- 📱 [BnE Lab dApp](https://bne.lovable.app)
+- 📊 [Institutional Repository](https://github.com/BlockchainnaEscola/BlockchainnaEscola)
+
+*Last updated: December 2025*
