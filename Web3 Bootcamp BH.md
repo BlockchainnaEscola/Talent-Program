@@ -2,7 +2,6 @@
 
 **Identificando, registrando e acompanhando talentos Web3 de escolas públicas brasileiras**
 
----
 
 ## Bootcamp Web3 Careers - Belo Horizonte 2025
 
@@ -12,7 +11,6 @@ O programa foi patrocinado por **Celo Foundation** e **Team1 Avalanche**, com pa
 
 Este bootcamp é importante porque **democratiza o acesso ao conhecimento sobre tecnologias emergentes**, criando uma ponte entre estudantes de baixa renda e oportunidades de carreira no ecossistema Web3, combatendo a exclusão digital e abrindo caminhos para profissões do futuro.
 
----
 
 ## Relatórios e Dados
 
@@ -21,7 +19,7 @@ Este bootcamp é importante porque **democratiza o acesso ao conhecimento sobre 
 - **[Dashboard de Visualização de Dados - Celo](https://lookerstudio.google.com/reporting/45e228ad-a5b9-486d-9415-df876847d7d9)** - Métricas interativas de engajamento estudantil
 - **[Relatório Avalanche - Workshop Carreiras Web3](https://drive.google.com/file/d/1FQdxnOnl8V9GAY6h9gKH8tOpsnH95WQT/view?usp=drive_link)** - Parceria Team1 e trilhas de carreira apresentadas
 
----
+
 
 ## 👥 Lista de Estudantes
 
@@ -64,7 +62,7 @@ Todos os estudantes receberam um **Badge NFT** (ERC-721) na **Celo Mainnet** com
 
 **Verificar on-chain:** Todas as carteiras e badges podem ser verificados em [CeloScan](https://celoscan.io/token/0x3ec359ae321b2f956045d803a3003683d4fa99db)
 
----
+
 
 ## 📝 Para Estudantes: Como Adicionar Seu Perfil
 
