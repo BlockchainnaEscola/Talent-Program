@@ -1,4 +1,4 @@
-# 🌟 BnE Lab Talent Program
+# BnE Web3 Careers Bootcamp
 
 **Identifying, registering, and tracking Web3 talent from Brazilian public schools**
 
@@ -9,6 +9,10 @@ This repository documents students who participated in the **Web3 Careers Bootca
 The program was sponsored by **Celo Foundation** and **Team1 Avalanche**, in partnership with Web3 communities: **Off-Chain Brazil**, **Modular Crypto**, **Crypto Rastas**, **Let's Co Create**, and **Zcash Brazil**. The event took place at **Orbi Conecta Hub**, providing public school students access to professional technology and innovation environments that would normally be inaccessible to them.
 
 This bootcamp is important because it **democratizes access to knowledge about emerging technologies**, creating a bridge between low-income students and career opportunities in the Web3 ecosystem, combating digital exclusion and opening pathways to future professions.
+
+<img width="1204" height="784" alt="bne" src="https://github.com/user-attachments/assets/92abf9c8-1510-497b-b080-975656210d21" />
+
+
 
 ## 📊 Reports & Data
 
