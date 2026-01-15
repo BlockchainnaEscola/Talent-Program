@@ -10,8 +10,6 @@ The program was sponsored by **Celo Foundation** and **Team1 Avalanche**, in par
 
 This bootcamp is important because it **democratizes access to knowledge about emerging technologies**, creating a bridge between low-income students and career opportunities in the Web3 ecosystem, combating digital exclusion and opening pathways to future professions.
 
-<img width="1204" height="784" alt="bne" src="https://github.com/user-attachments/assets/92abf9c8-1510-497b-b080-975656210d21" />
-
 
 
 ## 📊 Reports & Data
