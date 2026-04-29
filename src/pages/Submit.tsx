@@ -8,7 +8,6 @@ import { Checkbox } from "@/components/ui/checkbox";
 import { Card } from "@/components/ui/card";
 import { ALL_TRACKS } from "@/data/builders";
 import { useMiniPay } from "@/hooks/useMiniPay";
-import { supabase } from "@/integrations/supabase/client";
 import { toast } from "@/hooks/use-toast";
 import { CheckCircle2 } from "lucide-react";
 
@@ -132,24 +131,10 @@ export default function Submit() {
     }
     setLoading(true);
     try {
-      const { error: dbError } = await supabase.from("builders").insert({
-        name, bio, location,
-        github_url: github || null,
-        wallet_address: wallet,
-        skills, tracks,
-      });
-      if (dbError) {
-        toast({ title: "Erro ao salvar perfil", description: dbError.message, variant: "destructive" });
-        return;
-      }
-      try {
-        await commitBuilderToGitHub({ name, bio, location, github, wallet, skills, tracks, cohort });
-      } catch (ghErr) {
-        console.warn("GitHub commit falhou (non-blocking):", ghErr);
-      }
+      await commitBuilderToGitHub({ name, bio, location, github, wallet, skills, tracks, cohort });
       setSubmitted(true);
     } catch (err) {
-      toast({ title: "Erro inesperado", description: String(err), variant: "destructive" });
+      toast({ title: "Erro ao registrar perfil", description: String(err), variant: "destructive" });
     } finally {
       setLoading(false);
     }
